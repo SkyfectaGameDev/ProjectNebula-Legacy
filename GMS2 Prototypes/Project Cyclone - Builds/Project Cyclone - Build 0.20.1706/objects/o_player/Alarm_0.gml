@@ -1,0 +1,2 @@
+
+shot_ready = true;
